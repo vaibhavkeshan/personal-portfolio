@@ -27,7 +27,7 @@ const HeroSection = () => {
                                 />
                             </Span>
                         </TextLoop>
-                        <SubTitle>{Bio.description}</SubTitle><br/><br/>
+                        <SubTitle>{Bio.description}</SubTitle>
                     </HeroLeftContainer>
                     <HeroRightContainer id="Right">
                         <Img src={HeroImg} alt="hero-image" />
